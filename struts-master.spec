@@ -4,7 +4,7 @@ Release:       1
 Summary:       Master pom file for Apache struts projects
 Group:         Development/Java
 License:       ASL 2.0
-URL:           http://struts.apache.org/
+URL:           https://struts.apache.org/
 # http://svn.apache.org/repos/asf/struts/maven/tags/STRUTS_MASTER_8/pom.xml
 Source0:       struts-master-pom.xml
 
